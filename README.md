@@ -1,4 +1,2 @@
 # joshi-rc
-My first Repo
-My first edit
-My feature first edit here
+New change on local file
